@@ -76,10 +76,4 @@ Sejal
 
 📜 License
 
-This project is for educational purposes and free to use for learning.
 
-If you want, I can also give:
-
-✅ How to upload on GitHub step-by-step
-✅ How to take proper screenshots
-✅ A portfolio-level README for resume use
