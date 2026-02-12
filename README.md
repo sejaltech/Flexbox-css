@@ -74,6 +74,4 @@ Applying media queries
 
 Sejal
 
-📜 License
-
 
